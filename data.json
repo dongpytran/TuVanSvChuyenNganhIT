@@ -450,6 +450,39 @@
     "mmt": 8,
     "ktlt": 8,
     "ktmt": 8
+  },
+  {
+    "mssv": 42,
+    "cn": "Công nghệ phần mềm",
+    "nmlt": 6.9,
+    "ctdl": 7,
+    "csdl": 10,
+    "heqt": 4,
+    "mmt": 7.3,
+    "ktlt": 7,
+    "ktmt": 6
+  },
+  {
+    "mssv": 43,
+    "cn": "Hệ thống thông tin",
+    "nmlt": 8,
+    "ctdl": 10,
+    "csdl": 7.5,
+    "heqt": 7.3,
+    "mmt": 6.9,
+    "ktlt": 4,
+    "ktmt": 6
+  },
+  {
+    "mssv": 44,
+    "cn": "Mạng máy tính",
+    "nmlt": 8,
+    "ctdl": 10,
+    "csdl": 6.5,
+    "heqt": 7.1,
+    "mmt": 7.7,
+    "ktlt": 4.5,
+    "ktmt": 7.9
   }
 ]
 }
